@@ -1,3 +1,4 @@
 # Cinli-Kalan-Teoremi
-Chinese Remainder Theorem
+Chinese Remainder Theorem.
+
 Brute Force Searching
